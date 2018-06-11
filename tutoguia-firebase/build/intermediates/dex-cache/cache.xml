@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6cf0836b2c80ce2f82e32a27f607dc0768c5789b">
+        <dex dex="C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1401245c43174adf3bc4c401b9bb6cec663a4f9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_daa2a6d1009466b7b34b692b2cc76d58d7e165bb\classes.dex" />
+    </item>
+
+</items>

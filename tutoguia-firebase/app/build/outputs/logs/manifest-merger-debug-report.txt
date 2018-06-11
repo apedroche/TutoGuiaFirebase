@@ -1,0 +1,511 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:2:1-136:12
+	package
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\apedroche\.android\build-cache\a83f295f9cffde22db22325a3c5db432266dc32c\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\apedroche\.android\build-cache\ba0436dff13ac1cfc633302b48633288ba0ce504\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:8:5-134:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\apedroche\.android\build-cache\8d2dec103994f0fa31812797572ac50c1b144a88\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.1] C:\Users\apedroche\.android\build-cache\fed2fd79785fd1e77e05507a6c6cd1204506b587\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\apedroche\.android\build-cache\8ee375b52c2f444c8efa289c3d2d455dd31cc04e\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] C:\Users\apedroche\.android\build-cache\d21f2396a312589a3eebc501d0b3dc80229423b5\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\apedroche\.android\build-cache\fd8c13b0a6459db611ea734f2502ef17733c705d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\apedroche\.android\build-cache\d10b69da3241873deb9964b3dea561e6806bd7b9\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\apedroche\.android\build-cache\387565107dae1b6b37fd9a84f712bc4172f4c824\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\apedroche\.android\build-cache\a83f295f9cffde22db22325a3c5db432266dc32c\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\apedroche\.android\build-cache\69d56fe2d5c8c6ccb77877510ee2ff4646455993\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-invites:10.2.1] C:\Users\apedroche\.android\build-cache\db06db6674cff2098035dd2dcd8f59fb43d96af4\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.firebase:firebase-ads:10.2.1] C:\Users\apedroche\.android\build-cache\304052f02ee055c7b6fddbdfa4b7cb4312e1b579\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\apedroche\.android\build-cache\919e96599547f1837652ed7616424fbbef638e56\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\apedroche\.android\build-cache\4fef043405404de752933c6b37fb4f90a8542065\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\apedroche\.android\build-cache\83519a4e5c41e3c867e96bebc164cb926bd755af\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\apedroche\.android\build-cache\c04bc307d68e0ce9a1955346be2e6c889d3b046e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\apedroche\.android\build-cache\ba0436dff13ac1cfc633302b48633288ba0ce504\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\apedroche\.android\build-cache\867a432d471da9659d4b07bcd43abb9a5c0a2ea5\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\apedroche\.android\build-cache\e13fea226b822d1ce4e69d2e6c273825c28f8371\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\apedroche\.android\build-cache\17e52a1e20dd3ad5a390013c2b0b7c7d9b0d08b6\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\apedroche\.android\build-cache\814f10549478577e47a1719126ca21050092cbf8\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\apedroche\.android\build-cache\e20ff69eb926baf454dd039549ee334811384f26\output\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:28:5-51:19
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:13:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:14:9-16:55
+	android:value
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:16:13-52
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:15:13-58
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:18:9-21:48
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\apedroche\.android\build-cache\e20ff69eb926baf454dd039549ee334811384f26\output\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:21:13-45
+	android:configChanges
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:20:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\apedroche\.android\build-cache\e20ff69eb926baf454dd039549ee334811384f26\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:19:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:22:9-33:20
+	android:exported
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:23:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:25:13-32:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:28:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:29:17-78
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:29:27-75
+data
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:31:17-75
+	android:scheme
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:31:23-72
+activity#tutoguia.firebase.android.interfaz.MainActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:34:9-53:20
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:34:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:38:27-74
+activity#tutoguia.firebase.android.interfaz.AuthenticationActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:54:9-57:67
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:56:13-66
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:57:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:55:13-60
+activity#tutoguia.firebase.android.interfaz.AuthenticationResultActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:58:9-61:77
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:60:13-66
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:59:13-66
+activity#tutoguia.firebase.android.interfaz.StorageActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:62:9-65:67
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:64:13-59
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:65:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:63:13-53
+activity#tutoguia.firebase.android.interfaz.DatabaseActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:66:9-70:55
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:68:13-60
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:69:13-64
+	android:windowSoftInputMode
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:70:13-52
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:67:13-54
+activity#tutoguia.firebase.android.interfaz.AsignaturaActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:71:9-74:71
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:73:13-60
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:74:13-68
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:72:13-56
+activity#tutoguia.firebase.android.interfaz.AlumnoActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:75:9-78:71
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:77:13-60
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:78:13-68
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:76:13-52
+activity#tutoguia.firebase.android.interfaz.MessagingResultActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:79:9-81:64
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:81:13-61
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:80:13-61
+activity#tutoguia.firebase.android.interfaz.CrashReportingActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:82:9-85:67
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:84:13-67
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:85:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:83:13-60
+activity#tutoguia.firebase.android.interfaz.CloudFunctionsActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:86:9-89:67
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:88:13-67
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:89:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:87:13-60
+activity#tutoguia.firebase.android.interfaz.CloudMessagingActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:90:9-93:67
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:92:13-61
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:93:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:91:13-60
+activity#tutoguia.firebase.android.interfaz.RemoteConfigActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:94:9-97:67
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:96:13-65
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:97:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:95:13-58
+activity#tutoguia.firebase.android.interfaz.DynamicLinkActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:98:9-101:67
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:100:13-64
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:101:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:99:13-57
+activity#tutoguia.firebase.android.interfaz.DynamicLinkResultActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:102:9-105:67
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:104:13-64
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:105:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:103:13-63
+activity#tutoguia.firebase.android.interfaz.AdMobActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:106:9-109:67
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:108:13-57
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:109:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:107:13-51
+activity#tutoguia.firebase.android.interfaz.AnalyticsActivity
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:110:9-112:66
+	android:label
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:111:13-61
+	android:parentActivityName
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:112:13-64
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:110:19-61
+service#tutoguia.firebase.android.messaging.MyFirebaseMessagingService
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:114:9-118:19
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:114:18-70
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:115:13-117:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:116:17-78
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:116:25-75
+service#tutoguia.firebase.android.messaging.MyFirebaseInstanceIDService
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:119:9-123:19
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:119:18-71
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:120:13-122:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:121:17-80
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:121:25-77
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:125:9-133:20
+	android:authorities
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:127:13-60
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:129:13-47
+	android:exported
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:126:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:130:13-132:57
+	android:resource
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:132:17-55
+	android:name
+		ADDED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml:131:17-67
+uses-sdk
+INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\apedroche\.android\build-cache\8d2dec103994f0fa31812797572ac50c1b144a88\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.1] C:\Users\apedroche\.android\build-cache\fed2fd79785fd1e77e05507a6c6cd1204506b587\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\apedroche\.android\build-cache\8ee375b52c2f444c8efa289c3d2d455dd31cc04e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] C:\Users\apedroche\.android\build-cache\d21f2396a312589a3eebc501d0b3dc80229423b5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\apedroche\.android\build-cache\fd8c13b0a6459db611ea734f2502ef17733c705d\output\AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\apedroche\.android\build-cache\d10b69da3241873deb9964b3dea561e6806bd7b9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\apedroche\.android\build-cache\aec3cf65d3c2d626023bbe4f611c1c4eaa113722\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\apedroche\.android\build-cache\64987c964d0b1f86765b7ee972d2813613f801b1\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\apedroche\.android\build-cache\a3b196f19ca1cffbe6fdbd356817b61bd638bc1e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\apedroche\.android\build-cache\420797632170ebaffc1a67d3ce3d95c543e71956\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\apedroche\.android\build-cache\387565107dae1b6b37fd9a84f712bc4172f4c824\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\apedroche\.android\build-cache\a83f295f9cffde22db22325a3c5db432266dc32c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\apedroche\.android\build-cache\69d56fe2d5c8c6ccb77877510ee2ff4646455993\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-invites:10.2.1] C:\Users\apedroche\.android\build-cache\db06db6674cff2098035dd2dcd8f59fb43d96af4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-ads:10.2.1] C:\Users\apedroche\.android\build-cache\304052f02ee055c7b6fddbdfa4b7cb4312e1b579\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\apedroche\.android\build-cache\04965726b856de8aa00b9ad59536451a3f9b3c9e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\apedroche\.android\build-cache\919e96599547f1837652ed7616424fbbef638e56\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\apedroche\.android\build-cache\4fef043405404de752933c6b37fb4f90a8542065\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\apedroche\.android\build-cache\83519a4e5c41e3c867e96bebc164cb926bd755af\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\apedroche\.android\build-cache\c04bc307d68e0ce9a1955346be2e6c889d3b046e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\apedroche\.android\build-cache\ba0436dff13ac1cfc633302b48633288ba0ce504\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\apedroche\.android\build-cache\867a432d471da9659d4b07bcd43abb9a5c0a2ea5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\apedroche\.android\build-cache\e13fea226b822d1ce4e69d2e6c273825c28f8371\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\apedroche\.android\build-cache\17e52a1e20dd3ad5a390013c2b0b7c7d9b0d08b6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\apedroche\.android\build-cache\814f10549478577e47a1719126ca21050092cbf8\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\apedroche\.android\build-cache\e20ff69eb926baf454dd039549ee334811384f26\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\apedroche\.android\build-cache\9a3e9961cb72906fa7e71c94a11a14028af1e859\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\apedroche\.android\build-cache\a0d183cd25d1451f53899ae607256a7a141987b7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\apedroche\.android\build-cache\a5ecf77e18dfee569ed2d8dcd54e0776f6378ef7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\apedroche\.android\build-cache\72a098f3b2b10019d849e0d915c7a41dea3931d1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\apedroche\.android\build-cache\128e7bee8151b215cf564ee79a72187d0b6be3a4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\apedroche\.android\build-cache\91e98fd907655fd9dee9fea0361ac7246a9304ba\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\apedroche\.android\build-cache\df9c0b8ae10357bb22b2f440feeab831a39f5204\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\apedroche\.android\build-cache\04e2896a2ba90a81c6d93e5982eb2c421cd9b5d4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\apedroche\.android\build-cache\6b53fa1d8c7499fce2bf8553b6ea689d5fefde0e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\apedroche\.android\build-cache\86fafe36fb12f4348ae9911fbbf50a8594803485\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\apedroche\.android\build-cache\05c069662b6ac53aaffb5e6345326c94e78cafd2\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\apedroche\.android\build-cache\bddd78e70396c7842ee08f733ecab7a86319f100\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] C:\Users\apedroche\.android\build-cache\fed2fd79785fd1e77e05507a6c6cd1204506b587\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\apedroche\Desktop\Proyectos Bitbucket\tutoguia-firebase\tutoguia-firebase\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] C:\Users\apedroche\.android\build-cache\fed2fd79785fd1e77e05507a6c6cd1204506b587\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\apedroche\.android\build-cache\8ee375b52c2f444c8efa289c3d2d455dd31cc04e\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] C:\Users\apedroche\.android\build-cache\d21f2396a312589a3eebc501d0b3dc80229423b5\output\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] C:\Users\apedroche\.android\build-cache\fed2fd79785fd1e77e05507a6c6cd1204506b587\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] C:\Users\apedroche\.android\build-cache\fed2fd79785fd1e77e05507a6c6cd1204506b587\output\AndroidManifest.xml:27:13-51
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\apedroche\.android\build-cache\387565107dae1b6b37fd9a84f712bc4172f4c824\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\apedroche\.android\build-cache\387565107dae1b6b37fd9a84f712bc4172f4c824\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\apedroche\.android\build-cache\387565107dae1b6b37fd9a84f712bc4172f4c824\output\AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\apedroche\.android\build-cache\afcd05c9731d9812b231de41f82deaf3bd9faaa9\output\AndroidManifest.xml:22:25-87
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\apedroche\.android\build-cache\ba0436dff13ac1cfc633302b48633288ba0ce504\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\apedroche\.android\build-cache\64fb18ab254d0630bbec0cd9e316bf0ca73af9ce\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\apedroche\.android\build-cache\4fef043405404de752933c6b37fb4f90a8542065\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\apedroche\.android\build-cache\4fef043405404de752933c6b37fb4f90a8542065\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\apedroche\.android\build-cache\4fef043405404de752933c6b37fb4f90a8542065\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\apedroche\.android\build-cache\4fef043405404de752933c6b37fb4f90a8542065\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\apedroche\.android\build-cache\ba0436dff13ac1cfc633302b48633288ba0ce504\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\apedroche\.android\build-cache\ba0436dff13ac1cfc633302b48633288ba0ce504\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\apedroche\.android\build-cache\ba0436dff13ac1cfc633302b48633288ba0ce504\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\apedroche\.android\build-cache\d0ab54edb9637368b60552580f31d14ec67a2785\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\apedroche\.android\build-cache\cefe7d7ebb5c79c0f18127f35f278f5269aa1306\output\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\apedroche\.android\build-cache\867a432d471da9659d4b07bcd43abb9a5c0a2ea5\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\apedroche\.android\build-cache\867a432d471da9659d4b07bcd43abb9a5c0a2ea5\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\apedroche\.android\build-cache\867a432d471da9659d4b07bcd43abb9a5c0a2ea5\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\apedroche\.android\build-cache\867a432d471da9659d4b07bcd43abb9a5c0a2ea5\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\apedroche\.android\build-cache\867a432d471da9659d4b07bcd43abb9a5c0a2ea5\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\apedroche\.android\build-cache\17e52a1e20dd3ad5a390013c2b0b7c7d9b0d08b6\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\apedroche\.android\build-cache\17e52a1e20dd3ad5a390013c2b0b7c7d9b0d08b6\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\apedroche\.android\build-cache\17e52a1e20dd3ad5a390013c2b0b7c7d9b0d08b6\output\AndroidManifest.xml:20:20-65
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\apedroche\.android\build-cache\e20ff69eb926baf454dd039549ee334811384f26\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\apedroche\.android\build-cache\e20ff69eb926baf454dd039549ee334811384f26\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:45:13-86
+intent-filter#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\apedroche\.android\build-cache\356091464eca811715c77f16305e02cf585291e3\output\AndroidManifest.xml:48:25-92

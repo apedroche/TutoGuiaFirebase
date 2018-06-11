@@ -1,0 +1,4 @@
+#Mon Jun 11 23:52:28 CEST 2018
+base.0=C\:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

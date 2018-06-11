@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>dev_message_text</key>
+        <value>Mensaje predeterminado en modo desarrollo</value>
+    </entry>
+    <entry>
+        <key>dev_message_caps</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>uat_message_text</key>
+        <value>Mensaje predeterminado en modo UAT</value>
+    </entry>
+    <entry>
+        <key>uat_message_caps</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>prod_message_text</key>
+        <value>Mensaje predeterminado en modo producción</value>
+    </entry>
+    <entry>
+        <key>prod_message_caps</key>
+        <value>false</value>
+    </entry>
+</defaultsMap>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

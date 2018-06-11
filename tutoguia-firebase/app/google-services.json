@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "222654176776",
+    "firebase_url": "https://tutoguia-firebase.firebaseio.com",
+    "project_id": "tutoguia-firebase",
+    "storage_bucket": "tutoguia-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222654176776:android:f9b8e748e42ad8aa",
+        "android_client_info": {
+          "package_name": "tutoguia.firebase.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222654176776-h1vd6n8p5dh8bsj781fhpbgb2e3qr8sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tutoguia.firebase.android",
+            "certificate_hash": "e5ae9b3535e3db6247e0375484ce07604f78619e"
+          }
+        },
+        {
+          "client_id": "222654176776-5bmspt6r0fjb5dt40tqul73o2ppv3h6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoAFSsoXkLvKoY0TtOonLPyjDTGASEl10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222654176776-5bmspt6r0fjb5dt40tqul73o2ppv3h6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

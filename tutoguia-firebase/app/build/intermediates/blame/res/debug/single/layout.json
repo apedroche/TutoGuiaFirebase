@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\a0d183cd25d1451f53899ae607256a7a141987b7\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dynamic_link.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_dynamic_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\05c069662b6ac53aaffb5e6345326c94e78cafd2\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\e20ff69eb926baf454dd039549ee334811384f26\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\e20ff69eb926baf454dd039549ee334811384f26\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\05c069662b6ac53aaffb5e6345326c94e78cafd2\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\a0d183cd25d1451f53899ae607256a7a141987b7\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\05c069662b6ac53aaffb5e6345326c94e78cafd2\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_crash_reporting.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_crash_reporting.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dynamic_link_result.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_dynamic_link_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\a0d183cd25d1451f53899ae607256a7a141987b7\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\a0d183cd25d1451f53899ae607256a7a141987b7\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_asignatura.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_asignatura.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\a0d183cd25d1451f53899ae607256a7a141987b7\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\a0d183cd25d1451f53899ae607256a7a141987b7\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alumno.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_alumno.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_storage.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_storage.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uploaded_file_item.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\uploaded_file_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cloud_messaging.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_cloud_messaging.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_database.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_analytics.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messaging_result.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_messaging_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asignatura_check_item.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\asignatura_check_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remote_config.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_remote_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\a0d183cd25d1451f53899ae607256a7a141987b7\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_authentication.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\storage_item.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\storage_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\05c069662b6ac53aaffb5e6345326c94e78cafd2\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cloud_functions.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_cloud_functions.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ad_mob.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_ad_mob.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\a0d183cd25d1451f53899ae607256a7a141987b7\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\814f10549478577e47a1719126ca21050092cbf8\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\05c069662b6ac53aaffb5e6345326c94e78cafd2\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asignatura_item.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\asignatura_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alumno_item.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\alumno_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\fed2fd79785fd1e77e05507a6c6cd1204506b587\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\e20ff69eb926baf454dd039549ee334811384f26\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\05c069662b6ac53aaffb5e6345326c94e78cafd2\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_authentication_result.xml",
+        "source": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\src\\main\\res\\layout\\activity_authentication_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\128e7bee8151b215cf564ee79a72187d0b6be3a4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\a0d183cd25d1451f53899ae607256a7a141987b7\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\apedroche\\.android\\build-cache\\e20ff69eb926baf454dd039549ee334811384f26\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Jun 11 23:59:02 CEST 2018
+base.0=C\:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1401245c43174adf3bc4c401b9bb6cec663a4f9d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_daa2a6d1009466b7b34b692b2cc76d58d7e165bb\\classes.dex
+base.1=C\:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_daa2a6d1009466b7b34b692b2cc76d58d7e165bb
+file.0=C\:\\Users\\apedroche\\Desktop\\Proyectos Bitbucket\\tutoguia-firebase\\tutoguia-firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1401245c43174adf3bc4c401b9bb6cec663a4f9d\\classes.dex

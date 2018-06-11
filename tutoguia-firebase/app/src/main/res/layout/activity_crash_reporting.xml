@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="tutoguia.firebase.android.interfaz.CrashReportingActivity">
+
+    <TextView
+        android:id="@+id/resultText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textAlignment="textEnd"
+        android:textSize="24sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="7"
+            android:text="7"
+            android:layout_weight="1"
+            android:onClick="addDigit"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="8"
+            android:text="8"
+            android:layout_weight="1"
+            android:onClick="addDigit" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="9"
+            android:text="9"
+            android:layout_weight="1"
+            android:onClick="addDigit" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="/"
+            android:text="/"
+            android:layout_weight="1"
+            android:onClick="addOperation"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="4"
+            android:text="4"
+            android:layout_weight="1"
+            android:onClick="addDigit"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="5"
+            android:text="5"
+            android:layout_weight="1"
+            android:onClick="addDigit" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="6"
+            android:text="6"
+            android:layout_weight="1"
+            android:onClick="addDigit" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="X"
+            android:text="X"
+            android:layout_weight="1"
+            android:onClick="addOperation"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="1"
+            android:text="1"
+            android:layout_weight="1"
+            android:onClick="addDigit"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="2"
+            android:text="2"
+            android:layout_weight="1"
+            android:onClick="addDigit" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="3"
+            android:text="3"
+            android:layout_weight="1"
+            android:onClick="addDigit" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="-"
+            android:text="-"
+            android:layout_weight="1"
+            android:onClick="addOperation"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="C"
+            android:layout_weight="1"
+            android:onClick="clear"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="0"
+            android:text="0"
+            android:layout_weight="1"
+            android:onClick="addDigit"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="="
+            android:layout_weight="1"
+            android:onClick="checkResult"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="+"
+            android:text="+"
+            android:layout_weight="1"
+            android:onClick="addOperation"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/exceptionText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=""
+        android:layout_marginTop="20dp"/>
+</LinearLayout>

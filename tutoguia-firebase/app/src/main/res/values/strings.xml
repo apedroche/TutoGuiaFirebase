@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">TutoGuia Firebase</string>
+
+    <!-- Configuración Firebase -->
+    <string name="facebook_app_id">134442850578452</string>
+    <string name="fb_login_protocol_scheme">fb134442850578452</string>
+
+    <!-- Botones genéricos -->
+    <string name="enter">Entrar</string>
+    <string name="ok">OK</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="send">Enviar</string>
+
+    <!-- Items del menú principal -->
+    <string-array name="main_menu_items">
+        <item>Database</item>
+        <item>Storage</item>
+        <item>Authentication</item>
+        <item>Crash Reporting</item>
+        <item>Cloud Functions</item>
+        <item>Cloud Messaging</item>
+        <item>Remote Config</item>
+        <item>Dynamic Link</item>
+        <item>AdMob</item>
+        <item>Analytics</item>
+    </string-array>
+
+    <!-- Database-->
+    <string name="title_activity_database">Database</string>
+    <string name="subject">Asignatura</string>
+    <string name="create_subject">Crear asignatura</string>
+    <string name="name">Nombre</string>
+    <string name="teacher">Profesor</string>
+    <string name="empty_subject">El nombre de la asignatura no puede estar vacío</string>
+    <string name="sure_to_delete_subject">¿Está seguro de que quiere eliminar la asignatura?</string>
+    <string name="student">Alumno</string>
+    <string name="create_student">Crear alumno</string>
+    <string name="dni">DNI</string>
+    <string name="birth_city">Ciudad</string>
+    <string name="age">Edad</string>
+    <string name="empty_dni">El DNI no puede estar vacío</string>
+    <string name="sure_to_delete_student">¿Está seguro de que quiere eliminar el alumno?</string>
+    <string name="query_num_students">Número de alumnos por asignatura</string>
+    <string name="query_students_by_city">Buscar alumnos por ciudad</string>
+    <string name="query_students_by_city_and_age">Buscar alumnos por ciudad mayores de una edad</string>
+    <string name="query_students_by_name">Buscar alumnos por nombre</string>
+    <string-array name="database_items">
+        <item>Asignaturas</item>
+        <item>Alumnos</item>
+        <item>Consultas</item>
+    </string-array>
+
+    <!-- Storage-->
+    <string name="title_activity_storage">Storage</string>
+    <string name="upload_file">Subir archivo</string>
+    <string name="select_file_error">Por favor instale una aplicación para elegir archivos</string>
+    <string name="uploading_file">Subiendo el archivo</string>
+    <string name="upload_file_ok">Archivo subido correctamente\nTamaño %d bytes</string>
+    <string name="upload_file_error">Error al subir el archivo</string>
+    <string name="sure_to_delete_file">¿Está seguro de que quiere eliminar el archivo?</string>
+
+    <!-- Authentication -->
+    <string name="title_activity_authentication">Authentication</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="create_user">Crear usuario</string>
+    <string name="login_empty">Debe rellenar ambos campos</string>
+    <string name="create_user_ok">Usuario creado</string>
+    <string name="create_user_wrong">No se puede crear el usuario</string>
+    <string name="login_ok">Usuario correcto</string>
+    <string name="login_wrong">Usuario incorrecto</string>
+    <string-array name="authentication_items">
+        <item>Email / contraseña</item>
+        <item>Facebook</item>
+        <item>Anónimo</item>
+    </string-array>
+
+    <!-- Cloud Messaging -->
+    <string name="title_activity_messaging">Cloud Messaging</string>
+    <string name="introduce_name">Introduce un nombre para registrarte</string>
+    <string name="register">Registrarse</string>
+    <string name="empty_name">El nombre no puede estar vacío</string>
+    <string name="choose_person">Elige a quién quieres enviar el mensaje</string>
+    <string name="title">Título</string>
+    <string name="message">Mensaje</string>
+    <string name="data">Datos</string>
+    <string name="send_cloud_message">Enviar el siguiente mensaje como notificación</string>
+
+    <!-- Crash Reporting -->
+    <string name="title_activity_crash_reporting">Crash Reporting</string>
+
+    <!-- Cloud Functions -->
+    <string name="title_activity_cloud_functions">Cloud Functions</string>
+    <string name="cloud_functions_authentication_description">Al crear un usuario nuevo, se enviará un correo electrónico de bienvenida</string>
+    <string name="cloud_functions_storage_description">Al subir un fichero de texto, se guardará en la base de datos separado por líneas</string>
+    <string-array name="cloud_functions_items">
+        <item>Authentication</item>
+        <item>Storage</item>
+    </string-array>
+
+    <!-- Remote Config -->
+    <string name="title_activity_remote_config">Remote Config</string>
+    <string-array name="remote_config_items">
+        <item>Desarrollo</item>
+        <item>UAT</item>
+        <item>Producción</item>
+    </string-array>
+
+    <!-- Dynamic Link -->
+    <string name="title_activity_dynamic_link">Dynamic Link</string>
+    <string name="send_dynamic_title" formatted="false">Enviar enlace como %s</string>
+    <string name="invitation_title">Invitación a TutoGuia Firebase</string>
+    <string name="invitation_message" formatted="false">%s quiere invitarte a que veas su perfil en TutoGuia Firebase</string>
+    <string name="link_accepted">Has sido redirigido desde una invitación. Gracias por instalar la aplicación </string>
+
+    <!-- AdMob -->
+    <string name="title_activity_admob">Admob</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</string>
+    <string name="see_video">Ver vídeo recompensado</string>
+
+    <!-- Analytics -->
+    <string name="title_activity_analytics">Analytics</string>
+    <string name="select_an_option">Seleccione una opción</string>
+    <string name="event_option_1">Opción 1</string>
+    <string name="event_option_2">Opción 2</string>
+    <string name="event_option_3">Opción 3</string>
+    <string name="no_option_selected">No ha seleccionado ninguna opción</string>
+    <string name="event_selection_sent">Gracias por enviar su opinión</string>
+    <string name="are_you_smoker">¿Es fumador?</string>
+    <string name="occupation">Ocupación</string>
+    <string name="properties_sent">Gracias por enviar sus propiedades</string>
+    <string-array name="analytic_items">
+        <item>Eventos</item>
+        <item>Propiedades</item>
+    </string-array>
+    <string-array name="smoker_items">
+        <item>Sí</item>
+        <item>No</item>
+        <item>Ocasionalmente</item>
+    </string-array>
+    <string-array name="occupation_items">
+        <item>Trabajador</item>
+        <item>Estudiante</item>
+        <item>Desempleado</item>
+    </string-array>
+
+</resources>
